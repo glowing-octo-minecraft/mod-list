@@ -9,7 +9,7 @@ How To Edit in This Repo
   - http://daringfireball.net/projects/markdown/syntax
 - Common sense
   - Fill out as much stuff as you can
-  - Try to use the most official source available
+  - Try to use the most official links available
   - If you have questions, ask me
     - You should avoid pushing something until it's right so that you don't have to push it five or six times
     - skwerlman will try to answer whatever questions you have
