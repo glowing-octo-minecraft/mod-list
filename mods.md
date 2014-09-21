@@ -1,4 +1,4 @@
-| Mod | Version in Use | Links | Notes |
+| Mod | Version in Use | Downloads | Notes |
 | :-: | :-: | :-: | :-: |
 | Advanced Genetics | 1.5.7 | [TeamDNA](http://ag.teamdna.de/) |  |
 | AE2TechAddOn | 1.0-b87 | [CurseForge](http://minecraft.curseforge.com/mc-mods/221903-ae2-tech-add-on/files) |  |
