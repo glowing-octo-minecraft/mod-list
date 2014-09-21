@@ -22,7 +22,7 @@
 | Builder's Guides | 1.0.0B4 |  |  |
 | Carpenter's Blocks | 3.2.8 |  |  |
 | Chisel | 1.5.7 |  |  |
-| Chisel Facades | ? |  |  |
+| Chisel Facades | 2.1 |  |  |
 | codechickencore | 1.0.3.26 |  |  |
 | CoFH Core | 3.0.0B6-32 |  |  |
 | CoFH Lib | 1.0.0B6-26 |  |  |
@@ -54,7 +54,7 @@
 | Garden Stuff | 1.2.1 |  |  |
 | Gendustry | 1.3.3.25 |  |  |
 | GraveStone | 2.9.4 |  |  |
-| Hardcore Ender Expansion |  |  |  |
+| Hardcore Ender Expansion | 1.6.2 |  |  |
 | Hats | 4.0.0 |  |  |
 | iChun Util | 4.0.0 |  |  |
 | Iguana TinkerTweaks | 2.0.5 |  |  |
@@ -62,7 +62,7 @@
 | Immibis Microblocks | 59.0.3 |  |  |
 | Immibis Peripherals | 59.0.0 |  |  |
 | Inventory Tweaks | 1.59-dev-152 |  |  |
-| Ironchest |  |  |  |
+| Ironchest | 6.0.60.741 | http://files.minecraftforge.net/IronChests2/ |  |
 | JABBA | 1.1.4 |  |  |
 | Lots of Food | 1.7.10v4 |  |  |
 | Lunatrius Core | 1.1.2.14 |  |  |
@@ -75,7 +75,7 @@
 | Mob Dismemberment |  |  |  |
 | Mobius Core | 1.2.3 |  |  |
 | Modular Force Field System | 3.0-ALPHA-7 |  |  |
-| ModTweaker |  |  |  |
+| ModTweaker | 0.5d |  |  |
 | Morph | Beta-0.9.0 |  |  |
 | Morpheus | 1.5.1.9 |  |  |
 | Mr Crayfish's Furniture Mod | 3.3.5 |  |  |
@@ -98,13 +98,13 @@
 | ProjectRed Mechanical | 4.4.8.47 |  |  |
 | ProjectRed World | 4.4.8.47 |  |  |
 | PvP Toggle | 0.1.0-4 |  |  |
-| Railcraft |  |  |  |
+| Railcraft | 9.3.1.0 |  |  |
 | Random Things | 2.1.4 |  |  |
 | Redstone Arsenal | 1.1.0B4 |  |  |
 | Roguelike Dungeons | 1.3.5 |  |  |
 | Router Reborn | 1.1.8 |  |  |
 | Sad Violin Death Sound |  |  |  |
-| Sanguimancy |  |  |  |
+| Sanguimancy | 1.1.2 |  |  |
 | Secret Rooms Mod |  |  | Awaiting stable update  |
 | Simply Jetpacks | 1.1.1 |  |  |
 | Solar Flux | 0.4b |  |  |
@@ -120,7 +120,7 @@
 | TiC Tooltips | 1.1.11b |  |  |
 | Tinkers Construct | 1.6.0d40.1 |  |  |
 | Tinkers Mechworks | 0.2.9 |  |  |
-| Too Much Loot |  |  |  |
+| Too Much Loot | 3.0.1b22 |  |  |
 | Translocator | 1.1.1.12 |  |  |
 | Twilight Forest | 2.3.1 |  |  |
 | WAILA | 1.5.4a |  |  |
