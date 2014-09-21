@@ -1,4 +1,3 @@
-| Mod | Version in Use | Links | Notes |
 | :-: | :-: | :-: | :-: |
 | Advanced Genetics | 1.5.7 | [TeamDNA](http://ag.teamdna.de/) |  |
 | AE2TechAddOn | 1.0-b87 | [CurseForge](http://minecraft.curseforge.com/mc-mods/221903-ae2-tech-add-on/files) |  |
@@ -22,8 +21,8 @@
 | Builder's Guides | 1.0.0B4 | [CurseForge](http://minecraft.curseforge.com/mc-mods/222961-builders-guides/files) |  |
 | Carpenter's Blocks | 3.2.8 | [GitHub](http://mineshopper.github.io/carpentersblocks/downloads.html) |  |
 | ChickenChunks |  | [ChickenBones](http://chickenbones.net/Pages/links.html) | Awaiting update to 1.7.10 |
-| Chisel | 1.5.7 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294901-) |  |
 | Chisel Facades | 2.1 | [CurseForge](http://minecraft.curseforge.com/mc-mods/222784-chisel-facades/files) |  |
+| Chisel | 1.5.7 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294901-) |  |
 | codechickencore | 1.0.3.26 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  |
 | CoFH Core | 3.0.0B6-32 | [TeamCoFH](http://teamcofh.com/downloads/) |  |
 | CoFH Lib | 1.0.0B6-26 | [TeamCoFH](http://teamcofh.com/downloads/) |  |
@@ -32,14 +31,14 @@
 | Decocraft | 1.10 | [CurseForge](http://minecraft.curseforge.com/mc-mods/79616-decocraft/files) |  |
 | Dual Hotbar | 1.6 | [CurseForge](http://minecraft.curseforge.com/mc-mods/223272-dual-hotbar/files) |  |
 | Enchanting Plus | 3.0.0a2 | [CurseForge](http://minecraft.curseforge.com/mc-mods/59413-enchanting-plus/files) |  |
-| EnderIO | 2.1.0_beta.32 |  |  |
 | Ender Storage | 1.4.5.24 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  |
 | Ender Tech | 0.3.0.346 |  |  |
+| EnderIO | 2.1.0_beta.32 |  |  |
 | Enhanced Portals | 3.0.6 |  |  |
 | Equivelent Exchange 3 | 0.2.328 |  |  |
 | Extra Cells | 2.1.1.2b8 |  |  |
-| ExtraTiC | 1.0.3 |  |  |
 | Extra Utilities | 1.1.0k |  |  |
+| ExtraTiC | 1.0.3 |  |  |
 | Factorization |  |  | Disabled temporarily |
 | Familiars API | 1.7.10 |  |  |
 | Fearitudes | 1.7.10 |  |  |
@@ -68,15 +67,16 @@
 | Lots of Food | 1.7.10v4 |  |  |
 | Lunatrius Core | 1.1.2.14 |  |  |
 | Mantle | 0.3.1 |  |  |
-| Metallurgy | 4.0.4.43 |  |  |
 | Metallurgy Core | 4.0.3.11 |  |  |
+| Metallurgy | 4.0.4.43 |  |  |
 | Micdoodle Core | BETA-1.7-3.0.2.199 |  |  |
 | MineFactory Reloaded | 2.8.0RC3-591 | [TeamCoFH](http://teamcofh.com/downloads/) |  |
 | MineTweaker | 3.0.8B |  |  |
 | Mob Dismemberment |  |  |  |
 | Mobius Core | 1.2.3 |  |  |
-| Modular Force Field System | 3.0-ALPHA-7 |  |  |
+| Mod | Version in Use | Links | Notes |
 | ModTweaker | 0.5d |  |  |
+| Modular Force Field System | 3.0-ALPHA-7 |  |  |
 | Morph | Beta-0.9.0 |  |  |
 | Morpheus | 1.5.1.9 |  |  |
 | Mr Crayfish's Furniture Mod | 3.3.5 |  |  |
@@ -124,7 +124,7 @@
 | Too Much Loot | 3.0.1b22 |  |  |
 | Translocator | 1.1.1.12 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  |
 | Twilight Forest | 2.3.1 |  |  |
-| WAILA | 1.5.4a |  |  |
 | WAILA Harvestability | 1.1.0 |  |  |
+| WAILA | 1.5.4a |  |  |
 | weaponmod | 1.14.2 |  | I have no clue what this is |
 | Witchery | 0.20.5 |  |  |
