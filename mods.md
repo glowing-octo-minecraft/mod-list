@@ -1,38 +1,39 @@
 | Mod | Version in Use | Links | Notes |
 | :-: | :-: | :-: | :-: |
-| Advanced Genetics | 1.5.7 |  |  |
-| AE2TechAddOn | 1.0-b87 |  |  |
-| Aethercraft | 1.4.5.68 |  |  |
-| Applied Energistics 2 | rv1-beta-37 |  |  |
-| Artifice | 1.1.4 |  |  |
-| AsieLib | 1.7.10 |  |  |
-| Automagy | 0.10.2 |  |  |
-| bdlib | 1.4.4.22 |  |  |
-| Bibliocraft | 1.8.1 |  |  |
-| Bibliowoods - Biomes O Plenty | 1.8 |  |  |
-| Bibliowoods - Forestry | 1.6 |  |  |
-| Bibliowoods - Natura | 1.4 |  |  |
-| Big Reactors | 0.4.0rc8 |  |  |
-| Billund |  |  | Awaiting stable update |
-| Biomes O Plenty | 2.1.0.991 |  |  |
-| Blood Magic | 1.1.0 |  | Known render bug |
-| Botania | r1.2 |  |  |
-| Buildcraft | 6.0.6 |  |  |
-| BuildcraftAdditions | 1.6.4 |  |  |
-| Builder's Guides | 1.0.0B4 |  |  |
-| Carpenter's Blocks | 3.2.8 |  |  |
-| Chisel | 1.5.7 |  |  |
-| Chisel Facades | 2.1 |  |  |
-| codechickencore | 1.0.3.26 |  |  |
-| CoFH Core | 3.0.0B6-32 |  |  |
-| CoFH Lib | 1.0.0B6-26 |  |  |
-| Computercraft | 1.64pr4 | http://computercraft.info/ |  |
-| Custom NPCs | 1.7.10b |  |  |
-| Decocraft | 1.10 |  |  |
-| Dual Hotbar | 1.6 |  |  |
-| Enchanting Plus | 3.0.0a2 |  |  |
+| Advanced Genetics | 1.5.7 | http://ag.teamdna.de/ |  |
+| AE2TechAddOn | 1.0-b87 | http://minecraft.curseforge.com/mc-mods/221903-ae2-tech-add-on/files |  |
+| Aethercraft | 1.4.5.68 | http://minecraft.curseforge.com/mc-mods/71386-aec/files |  |
+| Applied Energistics 2 | rv1-beta-37 | http://ae-mod.info/Downloads/ |  |
+| Artifice | 1.1.4 | http://minecraft.curseforge.com/mc-mods/223174-artifice/files |  |
+| AsieLib | 1.7.10 | http://mc.shinonome.ch/doku.php?id=wiki:asielib |  |
+| Automagy | 0.10.2 | http://minecraft.curseforge.com/mc-mods/222153-automagy/files |  |
+| bdlib | 1.4.4.22 | http://bdew.net/gendustry/ |  |
+| Bibliocraft | 1.8.1 | www.bibliocraftmod.com/?page_id=48 |  |
+| Bibliowoods - Biomes O Plenty | 1.8 | http://www.bibliocraftmod.com/?page_id=50 |  |
+| Bibliowoods - Forestry | 1.6 | http://www.bibliocraftmod.com/?page_id=50 |  |
+| Bibliowoods - Natura | 1.4 | http://www.bibliocraftmod.com/?page_id=50 |  |
+| Big Reactors | 0.4.0rc8 | http://www.big-reactors.com/#/download |  |
+| Billund |  | http://www.computercraft.info/billund/ | Awaiting stable update |
+| Biomes O Plenty | 2.1.0.991 | http://files.minecraftforge.net/BiomesOPlenty/ |  |
+| Blood Magic | 1.1.0 | https://www.dropbox.com/sh/0aqvalqobu61t44/AADZq-GuoDeuNzgg6zueVM_Ca | Known render bug |
+| Botania | r1.2 | http://vazkii.us/mod/Botania/downloads.php |  |
+| Buildcraft | 6.0.6 | http://www.mod-buildcraft.com/download/ |  |
+| BuildcraftAdditions | 1.6.4 | http://minecraft.curseforge.com/mc-mods/221014-buildcraft-additions/files |  |
+| Builder's Guides | 1.0.0B4 | http://minecraft.curseforge.com/mc-mods/222961-builders-guides/files |  |
+| Carpenter's Blocks | 3.2.8 | http://mineshopper.github.io/carpentersblocks/downloads.html |  |
+| ChickenChunks |  | http://chickenbones.net/Pages/links.html | Awaiting update to 1.7.10 |
+| Chisel | 1.5.7 | http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294901- |  |
+| Chisel Facades | 2.1 | http://minecraft.curseforge.com/mc-mods/222784-chisel-facades/files |  |
+| codechickencore | 1.0.3.26 | http://chickenbones.net/Pages/links.html |  |
+| CoFH Core | 3.0.0B6-32 | http://teamcofh.com/downloads/ |  |
+| CoFH Lib | 1.0.0B6-26 | http://teamcofh.com/downloads/ |  |
+| Computercraft | 1.64pr4 | http://www.computercraft.info/forums2/index.php?/topic/16881- | Need beta access to d/l |
+| Custom NPCs | 1.7.10b | http://minecraft.curseforge.com/mc-mods/221826-custom-npcs/files |  |
+| Decocraft | 1.10 | http://minecraft.curseforge.com/mc-mods/79616-decocraft/files |  |
+| Dual Hotbar | 1.6 | http://minecraft.curseforge.com/mc-mods/223272-dual-hotbar/files |  |
+| Enchanting Plus | 3.0.0a2 | http://minecraft.curseforge.com/mc-mods/59413-enchanting-plus/files |  |
 | EnderIO | 2.1.0_beta.32 |  |  |
-| Ender Storage | 1.4.5.24 |  |  |
+| Ender Storage | 1.4.5.24 | http://chickenbones.net/Pages/links.html |  |
 | Ender Tech | 0.3.0.346 |  |  |
 | Enhanced Portals | 3.0.6 |  |  |
 | Equivelent Exchange 3 | 0.2.328 |  |  |
@@ -52,7 +53,7 @@
 | Galacticraft Core | BETA-1.7-3.0.2.199 |  |  |
 | Galacticraft Planets | BETA-1.7-3.0.2.199 |  |  |
 | Garden Stuff | 1.2.1 |  |  |
-| Gendustry | 1.3.3.25 |  |  |
+| Gendustry | 1.3.3.25 | http://bdew.net/gendustry/ |  |
 | GraveStone | 2.9.4 |  |  |
 | Hardcore Ender Expansion | 1.6.2 |  |  |
 | Hats | 4.0.0 |  |  |
@@ -70,7 +71,7 @@
 | Metallurgy | 4.0.4.43 |  |  |
 | Metallurgy Core | 4.0.3.11 |  |  |
 | Micdoodle Core | BETA-1.7-3.0.2.199 |  |  |
-| MineFactory Reloaded | 2.8.0RC3-591 |  |  |
+| MineFactory Reloaded | 2.8.0RC3-591 | http://teamcofh.com/downloads/ |  |
 | MineTweaker | 3.0.8B |  |  |
 | Mob Dismemberment |  |  |  |
 | Mobius Core | 1.2.3 |  |  |
@@ -80,9 +81,9 @@
 | Morpheus | 1.5.1.9 |  |  |
 | Mr Crayfish's Furniture Mod | 3.3.5 |  |  |
 | Natura | 2.2.0-b1 |  |  |
-| NetherOres | 2.3.0RC3-84 |  |  |
+| NetherOres | 2.3.0RC3-84 | http://teamcofh.com/downloads/ |  |
 | Nodal Mechanics | 1.0-7 |  |  |
-| Not Enough Items | 1.0.3.56 |  | Seems broken atm |
+| Not Enough Items | 1.0.3.56 | http://chickenbones.net/Pages/links.html | Seems broken atm |
 | OpenBlocks |  |  | Disabled temporarily |
 | OpenComputers | 1.3.4.63 |  |  |
 | OpenEye | 0.6 |  |  |
@@ -100,7 +101,7 @@
 | PvP Toggle | 0.1.0-4 |  |  |
 | Railcraft | 9.3.1.0 |  |  |
 | Random Things | 2.1.4 |  |  |
-| Redstone Arsenal | 1.1.0B4 |  |  |
+| Redstone Arsenal | 1.1.0B4 | http://teamcofh.com/downloads/ |  |
 | Roguelike Dungeons | 1.3.5 |  |  |
 | Router Reborn | 1.1.8 |  |  |
 | Sad Violin Death Sound |  |  |  |
@@ -115,13 +116,13 @@
 | Thaumcraft | 4.2.0.1 |  |  |
 | Thaumic Energistics | 0.6.9b |  |  |
 | Thaumic Tinkerer | 2.5 |  |  |
-| Thermal Expansion | 4.0.0B5-13 |  |  |
-| Thermal Foundation | 1.0.0B3-8 |  |  |
+| Thermal Expansion | 4.0.0B5-13 | http://teamcofh.com/downloads/ |  |
+| Thermal Foundation | 1.0.0B3-8 | http://teamcofh.com/downloads/ |  |
 | TiC Tooltips | 1.1.11b |  |  |
 | Tinkers Construct | 1.6.0d40.1 |  |  |
 | Tinkers Mechworks | 0.2.9 |  |  |
 | Too Much Loot | 3.0.1b22 |  |  |
-| Translocator | 1.1.1.12 |  |  |
+| Translocator | 1.1.1.12 | http://chickenbones.net/Pages/links.html |  |
 | Twilight Forest | 2.3.1 |  |  |
 | WAILA | 1.5.4a |  |  |
 | WAILA Harvestability | 1.1.0 |  |  |
