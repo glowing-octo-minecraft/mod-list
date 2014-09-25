@@ -43,7 +43,7 @@
 | Factorization |  |  | Disabled temporarily |
 | Familiars API | 1.7.10 |  |  |
 | Fearitudes | 1.7.10 |  |  |
-| Flan's Mods | 4.7.0 |  |  |
+| Flan's Mods | 4.7.0 | [flansmod] (http://flansmod.com/download) |  |
 | Flaxbeard's Steam Power | 0.26.2 |  |  |
 | FlenixCitiesCore | 0.9.0 |  |  |
 | FlenixCitiesResearch | 0.4 |  |  |
