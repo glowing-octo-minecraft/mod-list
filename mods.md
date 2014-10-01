@@ -21,10 +21,10 @@
 | BuildcraftAdditions | 1.6.4 | [CurseForge](http://minecraft.curseforge.com/mc-mods/221014-buildcraft-additions/files) |  |
 | Builder's Guides | 1.0.0B4 | [CurseForge](http://minecraft.curseforge.com/mc-mods/222961-builders-guides/files) |  |
 | Carpenter's Blocks | 3.2.8 | [GitHub](http://mineshopper.github.io/carpentersblocks/downloads.html) |  |
-| ChickenChunks |  | [ChickenBones](http://chickenbones.net/Pages/links.html) | Awaiting update to 1.7.10 |
+| ChickenChunks | 1.3.4.13 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  |
 | Chisel Facades | 2.1 | [CurseForge](http://minecraft.curseforge.com/mc-mods/222784-chisel-facades/files) |  |
 | Chisel | 1.5.7 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294901-) |  |
-| codechickencore | 1.0.3.26 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  |
+| codechickencore | 1.0.3.28 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  |
 | CoFH Core | 3.0.0B6-32 | [TeamCoFH](http://teamcofh.com/downloads/) |  |
 | CoFH Lib | 1.0.0B6-26 | [TeamCoFH](http://teamcofh.com/downloads/) |  |
 | Computercraft | 1.64pr4 | [Computercraft](http://www.computercraft.info/forums2/index.php?/topic/16881-) | Need beta access to d/l |
@@ -83,7 +83,7 @@
 | Natura | 2.2.0-b1 |  |  |
 | NetherOres | 2.3.0RC3-84 | [TeamCoFH](http://teamcofh.com/downloads/) |  |
 | Nodal Mechanics | 1.0-7 |  |  |
-| Not Enough Items | 1.0.3.56 | [ChickenBones](http://chickenbones.net/Pages/links.html) | Seems broken atm |
+| Not Enough Items | 1.0.3.58 | [ChickenBones](http://chickenbones.net/Pages/links.html) | Seems broken atm |
 | OpenBlocks |  |  | Disabled temporarily |
 | OpenComputers | 1.3.4.63 |  |  |
 | OpenEye | 0.6 |  |  |
@@ -128,3 +128,4 @@
 | WAILA | 1.5.4a |  |  |
 | weaponmod | 1.14.2 |  | I have no clue what this is |
 | Witchery | 0.20.5 |  |  |
+| WR-CBE | 1.4.1.4 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  |
