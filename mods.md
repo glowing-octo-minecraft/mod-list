@@ -1,10 +1,10 @@
 | Mod | Version in Use | Downloads | Notes |
 | :-: | :-: | :-: | :-: |
 | Advanced Genetics | 1.5.7 | [TeamDNA](http://ag.teamdna.de/) |  |
-| AE2TechAddOn | 1.0-b87 | [CurseForge](http://minecraft.curseforge.com/mc-mods/221903-ae2-tech-add-on/files) |  |
+| AE2TechAddOn | 1.0-b81 | [CurseForge](http://minecraft.curseforge.com/mc-mods/221903-ae2-tech-add-on/files) |  |
 | Aethercraft | 1.4.5.68 | [CurseForge](http://minecraft.curseforge.com/mc-mods/71386-aec/files) |  |
 | Applied Energistics 2 | rv1-beta-37 | [ae-mod](http://ae-mod.info/Downloads/) |  |
-| Artifice | 1.1.4 | [CurseForge](http://minecraft.curseforge.com/mc-mods/223174-artifice/files) |  |
+| Artifice | 1.1.4-296 | [CurseForge](http://minecraft.curseforge.com/mc-mods/223174-artifice/files) |  |
 | AsieLib | 1.7.10 | [shinonome](http://mc.shinonome.ch/doku.php?id=wiki:asielib) |  |
 | Automagy | 0.10.2 | [CurseForge](http://minecraft.curseforge.com/mc-mods/222153-automagy/files) |  |
 | bdlib | 1.4.4.22 | [bdew](http://bdew.net/gendustry/) |  |
@@ -17,7 +17,7 @@
 | Biomes O Plenty | 2.1.0.991 | [MinecraftForge](http://files.minecraftforge.net/BiomesOPlenty/) |  |
 | Blood Magic | 1.1.0 | [DropBox](https://www.dropbox.com/sh/0aqvalqobu61t44/AADZq-GuoDeuNzgg6zueVM_Ca) | Known render bug |
 | Botania | r1.2 | [vazkii](http://vazkii.us/mod/Botania/downloads.php) |  |
-| Buildcraft | 6.0.6 | [mod-buildcraft](http://www.mod-buildcraft.com/download/) |  |
+| Buildcraft | 6.0.17 | [mod-buildcraft](http://www.mod-buildcraft.com/download/) |  |
 | BuildcraftAdditions | 1.6.4 | [CurseForge](http://minecraft.curseforge.com/mc-mods/221014-buildcraft-additions/files) |  |
 | Builder's Guides | 1.0.0B4 | [CurseForge](http://minecraft.curseforge.com/mc-mods/222961-builders-guides/files) |  |
 | Carpenter's Blocks | 3.2.8 | [GitHub](http://mineshopper.github.io/carpentersblocks/downloads.html) |  |
@@ -37,17 +37,17 @@
 | EnderIO | 2.1.0_beta.32 |  |  |
 | Enhanced Portals | 3.0.6 |  |  |
 | Equivelent Exchange 3 | 0.2.328 |  |  |
-| Extra Cells | 2.1.1.2b8 |  |  |
+| Extra Cells | 2.1.12b8 |  |  |
 | Extra Utilities | 1.1.0k |  |  |
 | ExtraTiC | 1.0.3 |  |  |
-| Factorization |  |  | Disabled temporarily |
+| Factorization | 0.8.88.1 |  |  |
 | Familiars API | 1.7.10 |  |  |
 | Fearitudes | 1.7.10 |  |  |
 | Flan's Mods | 4.7.0 | [flansmod] (http://flansmod.com/download) |  |
 | Flaxbeard's Steam Power | 0.26.2 |  |  |
-| FlenixCitiesCore | 0.9.0 |  |  |
-| FlenixCitiesResearch | 0.4 |  |  |
-| Forestry | 3.0.0.172 |  |  |
+| FlenixCitiesCore | 0.9.0 |  | Disabled Temporarily |
+| FlenixCitiesResearch | 0.4 |  | Disabled Temporarily |
+| Forestry | 3.0.0.184 |  | Requires IC2 (bug?) |
 | FoxLib | 0.5.0 |  |  |
 | FPSPlus | 1.7.10MCP |  |  |
 | Galacticraft Core | BETA-1.7-3.0.2.199 |  |  |
@@ -55,13 +55,14 @@
 | Garden Stuff | 1.2.1 |  |  |
 | Gendustry | 1.3.3.25 | [bdew](http://bdew.net/gendustry/) |  |
 | GraveStone | 2.9.4 |  |  |
-| Hardcore Ender Expansion | 1.6.2 |  |  |
+| Hardcore Ender Expansion | 1.6.3 |  |  |
 | Hats | 4.0.0 |  |  |
 | iChun Util | 4.0.0 |  |  |
 | Iguana TinkerTweaks | 2.0.5 |  |  |
 | Immibis Core | 59.0.3 |  |  |
 | Immibis Microblocks | 59.0.3 |  |  |
 | Immibis Peripherals | 59.0.0 |  |  |
+| IndustrialCraft2 | 2.2.646-experimental |  | TODO: REMOVE ME |
 | Inventory Tweaks | 1.59-dev-152 |  |  |
 | Ironchest | 6.0.60.741 | [MinecraftForge](http://files.minecraftforge.net/IronChests2/) |  |
 | JABBA | 1.1.4 |  |  |
@@ -83,8 +84,9 @@
 | Natura | 2.2.0-b1 |  |  |
 | NetherOres | 2.3.0RC3-84 | [TeamCoFH](http://teamcofh.com/downloads/) |  |
 | Nodal Mechanics | 1.0-7 |  |  |
-| Not Enough Items | 1.0.3.58 | [ChickenBones](http://chickenbones.net/Pages/links.html) | Seems broken atm |
-| OpenBlocks |  |  | Disabled temporarily |
+| Not Enough Items | 1.0.3.58 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  |
+| OpenBlocks | 1.3-snapshot-434 |  |  |
+| OpenComponents | 0.2.0.20 |  |  |
 | OpenComputers | 1.3.4.63 |  |  |
 | OpenEye | 0.6 |  |  |
 | OpenMods Lib | 0.6-snapshot-223 |  |  |
@@ -101,7 +103,7 @@
 | PvP Toggle | 0.1.0-4 |  |  |
 | Railcraft | 9.3.1.0 |  |  |
 | Random Things | 2.1.4 |  |  |
-| Redstone Arsenal | 1.1.0B4 | [TeamCoFH](http://teamcofh.com/downloads/) |  |
+| Redstone Arsenal | 1.1.0B4-10 | [TeamCoFH](http://teamcofh.com/downloads/) |  |
 | Roguelike Dungeons | 1.3.5 |  |  |
 | Router Reborn | 1.1.8 |  |  |
 | Sad Violin Death Sound |  |  |  |
