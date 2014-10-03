@@ -40,7 +40,7 @@
 | Extra Cells | 2.1.12b8 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077-ae-add-on-m3gas-extracells-2-1-3-2-1-12-2-2-0) |  |
 | Extra Utilities | 1.1.0k | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k) |  |
 | ExtraTiC | 1.0.3 | [CurseForge](http://www.curse.com/mc-mods/minecraft/extratic#t1:other-downloads) |  |
-| Factorization | 0.8.88.1 | [MineCraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284592-factorization-0-8-88-2) | Read my commit change |
+| Factorization | 0.8.88.1 | [MineCraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284592-factorization-0-8-88-2) | Please see a3ebed9 |
 | Familiars API | 1.7.10 | [MineCraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280199-familiars-new-herobrine-notch-chuck-norris) |  |
 | Fearitudes | 1.7.10 | [stealthware](http://stealthware.co.uk/viewpage.php?page_id=1) |  |
 | Flan's Mods | 4.7.0 | [FlansMod](http://flansmod.com/download) |  |
