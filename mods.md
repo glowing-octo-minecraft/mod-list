@@ -33,17 +33,17 @@
 | Dual Hotbar | 1.6 | [CurseForge](http://minecraft.curseforge.com/mc-mods/223272-dual-hotbar/files) |  |
 | Enchanting Plus | 3.0.0a2 | [CurseForge](http://minecraft.curseforge.com/mc-mods/59413-enchanting-plus/files) |  |
 | Ender Storage | 1.4.5.24 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  |
-| Ender Tech | 0.3.0.346 |  |  |
-| EnderIO | 2.1.0_beta.32 |  |  |
-| Enhanced Portals | 3.0.6 |  |  |
-| Equivelent Exchange 3 | 0.2.328 |  |  |
-| Extra Cells | 2.1.12b8 |  |  |
-| Extra Utilities | 1.1.0k |  |  |
+| Ender Tech | 0.3.0.346 | [CurseForge](http://minecraft.curseforge.com/mc-mods/223428-endertech/files) |  |
+| EnderIO | 2.1.0_beta.32 | [CurseForge](http://minecraft.curseforge.com/mc-mods/64578-ender-io/files) |  |
+| Enhanced Portals 3 | 3.0.6 | [GitHub](https://github.com/SkyNetAB/enhanced-portals/) |  |
+| Equivelent Exchange 3 | 0.2.328 | [Pahimar](http://ee3.pahimar.com/) |  |
+| Extra Cells | 2.1.12b8 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077-ae-add-on-m3gas-extracells-2-1-3-2-1-12-2-2-0) |  |
+| Extra Utilities | 1.1.0k | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k) |  |
 | ExtraTiC | 1.0.3 |  |  |
 | Factorization | 0.8.88.1 |  |  |
 | Familiars API | 1.7.10 |  |  |
 | Fearitudes | 1.7.10 |  |  |
-| Flan's Mods | 4.7.0 | [flansmod] (http://flansmod.com/download) |  |
+| Flan's Mods | 4.7.0 | [FlansMod](http://flansmod.com/download) |  |
 | Flaxbeard's Steam Power | 0.26.2 |  |  |
 | FlenixCitiesCore | 0.9.0 |  | Disabled Temporarily |
 | FlenixCitiesResearch | 0.4 |  | Disabled Temporarily |
