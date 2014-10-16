@@ -106,7 +106,7 @@
 | Redstone Arsenal | 1.1.0B4-10 | [TeamCoFH](http://teamcofh.com/downloads/) |  |
 | Roguelike Dungeons | 1.3.5 |  |  |
 | Router Reborn | 1.1.8 |  |  |
-| Sad Violin Death Sound |  |  |  |
+| Sad Violin Death Sound | 1.7.10 |  |  |
 | Sanguimancy | 1.1.2 |  |  |
 | Secret Rooms Mod |  |  | Awaiting stable update  |
 | Simply Jetpacks | 1.1.1 |  |  |
