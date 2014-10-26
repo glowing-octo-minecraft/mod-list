@@ -42,7 +42,6 @@
 | ExtraTiC | 1.0.3 | [CurseForge](http://www.curse.com/mc-mods/minecraft/extratic#t1:other-downloads) |  |  |
 | Factorization | 0.8.88.1 | [MineCraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284592-factorization-0-8-88-2) | Please see [a3ebed9](https://github.com/glowing-octo-minecraft/mod-list/commit/a3ebed9d129864d10cf6ab5a852c93f6f2435ec7) |  |
 | Familiars API | 1.7.10 | [MineCraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280199-familiars-new-herobrine-notch-chuck-norris) |  |  |
-| Fearitudes | 1.7.10 | [stealthware](http://stealthware.co.uk/viewpage.php?page_id=1) |  |  |
 | Flan's Mods | 4.7.0 | [FlansMod](http://flansmod.com/download) |  |  |
 | Flaxbeard's Steam Power | 0.26.2 | [MineCraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091995-professor-flaxbeards-wondrous-steam-power-mod-beta) |  |  |
 | FlenixCitiesCore | 0.9.0 | [silvania](http://silvania.co.uk/mods/downloads/) | Disabled Temporarily/we need to contact flenix |  |
@@ -78,6 +77,7 @@
 | Mobius Core | 1.2.3 |  |  |  |
 | ModTweaker | 0.5d |  |  |  |
 | Modular Force Field System | 3.0-ALPHA-7 |  |  |  |
+| MoreMeat 2 | 2.3 | [stealthware](http://stealthware.co.uk/downloads.php?cat_id=16&download_id=116) | Inside fearitude-1.7.10.zip for now | Fearitude |
 | Morph | Beta-0.9.0 |  |  |  |
 | Morpheus | 1.5.1.9 |  |  |  |
 | Mr Crayfish's Furniture Mod | 3.3.5 |  |  |  |
@@ -109,10 +109,12 @@
 | Sad Violin Death Sound | 1.7.10 |  |  |  |
 | Sanguimancy | 1.1.2 |  |  |  |
 | Secret Rooms Mod |  |  | Awaiting stable update  |  |
+| Server Command GUI | 2.1 | [stealthware](http://stealthware.co.uk/downloads.php?cat_id=16&download_id=119) | Inside fearitude-1.7.10.zip for now | Fearitude |
 | Simply Jetpacks | 1.1.1 |  |  |  |
 | Solar Flux | 0.4b |  |  |  |
 | Stackie | 1.5.1.28 |  |  |  |
 | Statues Mod | 1.7.10 |  |  |  |
+| StealthwareCore | 2.0 | [stealthware](http://stealthware.co.uk/maven/uk/co/stealthware/minecraft/StealthwareCore/) | Inside fearitude-1.7.10.zip for now | Fearitude |
 | Sync | 4.0.0 |  |  |  |
 | Tails | 1.1.1 |  |  |  |
 | Thaumcraft | 4.2.0.1 |  |  |  |
