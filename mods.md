@@ -45,8 +45,8 @@
 | Fearitudes | 1.7.10 | [stealthware](http://stealthware.co.uk/viewpage.php?page_id=1) |  |
 | Flan's Mods | 4.7.0 | [FlansMod](http://flansmod.com/download) |  |
 | Flaxbeard's Steam Power | 0.26.2 | [MineCraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091995-professor-flaxbeards-wondrous-steam-power-mod-beta) |  |
-| FlenixCitiesCore | 0.9.0 |  | Disabled Temporarily |
-| FlenixCitiesResearch | 0.4 |  | Disabled Temporarily |
+| FlenixCitiesCore | 0.9.0 | [silvania](http://silvania.co.uk/mods/downloads/) | Disabled Temporarily |
+| FlenixCitiesResearch | 0.4 | [silvania](http://silvania.co.uk/mods/downloads/) | Disabled Temporarily |
 | Forestry | 3.0.0.184 |  | Requires IC2 (bug?) |
 | FoxLib | 0.5.0 |  |  |
 | FPSPlus | 1.7.10MCP |  |  |
