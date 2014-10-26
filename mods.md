@@ -8,7 +8,7 @@
 | AsieLib | 1.7.10 | [shinonome](http://mc.shinonome.ch/doku.php?id=wiki:asielib) |  |  |
 | Automagy | 0.10.2 | [CurseForge](http://minecraft.curseforge.com/mc-mods/222153-automagy/files) |  |  |
 | bdlib | 1.4.4.22 | [bdew](http://bdew.net/gendustry/) |  |  |
-| Bibliocraft | 1.8.1 | [BiblioCraftMod](www.bibliocraftmod.com/?page_id=48) |  |  |
+| Bibliocraft | 1.8.1 | [BiblioCraftMod](http://www.bibliocraftmod.com/?page_id=48) |  |  |
 | Bibliowoods - Biomes O Plenty | 1.8 | [BiblioCraftMod](http://www.bibliocraftmod.com/?page_id=50) |  |  |
 | Bibliowoods - Forestry | 1.6 | [BiblioCraftMod](http://www.bibliocraftmod.com/?page_id=50) |  |  |
 | Bibliowoods - Natura | 1.4 | [BiblioCraftMod](http://www.bibliocraftmod.com/?page_id=50) |  |  |
