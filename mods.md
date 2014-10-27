@@ -47,7 +47,7 @@
 | Flaxbeard's Steam Power | 0.26.4 | [MineCraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2246930-f) |  |  |
 | FlenixCitiesCore | 0.9.0 | [silvania](http://silvania.co.uk/mods/downloads/) | Disabled Temporarily/we need to contact flenix |  |
 | FlenixCitiesResearch | 0.4 | [silvania](http://silvania.co.uk/mods/downloads/) | Disabled Temporarily/we need to contact flenix |  |
-| Forestry | 3.1.1.4 | [sengir](http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads) | Requires IC2 (bug?) |  |
+| Forestry | 3.1.1.4 | [sengir](http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads) | Requires IC2 (bug?) | SirSengir |
 | FoxLib | 0.6.0 | [CurseForge](http://www.curse.com/mc-mods/minecraft/223291-foxlib#t1:other-downloads) |  |  |
 | FPSPlus | 1.7.10MCP | [CurseForge](http://www.curse.com/mc-mods/minecraft/fpsplus-lagfixes#t1:other-downloads) |  |  |
 | Galacticraft Core | BETA-1.7-3.0.5.229 | [micdoodle8](http://micdoodle8.com/mods/galacticraft/downloads) |  |  |
