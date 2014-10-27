@@ -7,6 +7,7 @@
 | Artifice | 1.1.4-300 | [CurseForge](http://minecraft.curseforge.com/mc-mods/223174-artifice/files) |  |  |
 | AsieLib | 0.3.2 | [shinonome](http://mc.shinonome.ch/doku.php?id=wiki:asielib) |  |  |
 | Automagy | 0.12.2 | [CurseForge](http://minecraft.curseforge.com/mc-mods/222153-automagy/files) |  |  |
+| Balkons Weaponmod | 1.14.3 | [CurseForge](http://www.curse.com/mc-mods/minecraft/balkons-weaponmod) |  |  |
 | bdlib | 1.5.0.31 | [bdew](http://bdew.net/gendustry/) |  |  |
 | Bibliocraft | 1.8.2 | [BiblioCraftMod](www.bibliocraftmod.com/?page_id=48) |  |  |
 | Bibliowoods - Biomes O Plenty | 1.8 | [BiblioCraftMod](http://www.bibliocraftmod.com/?page_id=50) |  |  |
@@ -104,34 +105,33 @@
 | Railcraft | 9.3.3.0 | [CurseForge](http://minecraft.curseforge.com/mc-mods/51195-railcraft/files/2215652) |  |  |
 | Random Things | 2.1.9 | [CurseForge](http://www.curse.com/mc-mods/minecraft/random-things) |  |  |
 | Redstone Arsenal | 1.1.0B4-10 | [TeamCoFH](http://teamcofh.com/downloads/) |  |  |
+| Resonant Engine | 2.0.0.153 | [universalelectricity](http://universalelectricity.com/resonant-engine/) |  |  |
 | Roguelike Dungeons | 1.3.5 | [CurseForge](http://www.curse.com/mc-mods/minecraft/221585-roguelike-dungeons) |  |  |
 | Router Reborn | 1.1.9 | [CurseForge](http://www.curse.com/mc-mods/minecraft/223808-router-reborn) |  |  |
 | Sad Violin Death Sound | 1.7.10 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2173383-s) |  |  |
 | Sanguimancy | 1.1.7-2 | [CurseForge](http://www.curse.com/mc-mods/minecraft/223722-sanguimancy) |  |  |
 | Secret Rooms Mod |  |  | Awaiting stable update  |  |
 | Server Command GUI | 2.1 | [stealthware](http://stealthware.co.uk/downloads.php?cat_id=16&download_id=119) | Inside fearitude-1.7.10.zip for now | Fearitude |
-| Simply Jetpacks | 1.1.1 |  |  |  |
-| Solar Flux | 0.4b |  |  |  |
+| Simply Jetpacks | 1.2.0 | [CurseForge](http://minecraft.curseforge.com/mc-mods/79325-simply-jetpacks) |  |  |
+| Solar Flux | 0.4b | [CurseForge](http://minecraft.curseforge.com/mc-mods/223548-solar-flux) |  |  |
 | Stackie | 1.5.1.28 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-l) |  |  |
-| Statues Mod | 1.7.10 |  |  |  |
+| Statues Mod | 2.1.4 | [shinonome](http://mc.shinonome.ch/doku.php?id=wiki:statues) |  |  |
 | StealthwareCore | 2.0 | [stealthware](http://stealthware.co.uk/maven/uk/co/stealthware/minecraft/StealthwareCore/) | Inside fearitude-1.7.10.zip for now | Fearitude |
 | Sync | 4.0.0 | [ichun](http://ichun.us/mods/sync/) |  |  |
-| Tails | 1.1.1 |  |  |  |
-| Thaumcraft | 4.2.0.1 |  |  |  |
-| Thaumic Energistics | 0.6.9b |  |  |  |
-| Thaumic Tinkerer | 2.5 |  |  |  |
+| Tails | 1.2.2 | [CurseForge](http://www.curse.com/mc-mods/minecraft/223584-tails) |  |  |
+| Thaumcraft | 4.2.1.4 | [CurseForge](http://www.curse.com/mc-mods/minecraft/223628-thaumcraft) |  |  |
+| Thaumic Energistics | 0.7.3b | [CurseForge](http://www.curse.com/mc-mods/minecraft/223666-thaumic-energistics) |  |  |
+| Thaumic Tinkerer | 2.5-1.7.10-158 | [CurseForge](http://www.curse.com/mc-mods/minecraft/thaumic-tinkerer) |  |  |
 | Thermal Expansion | 4.0.0B5-13 | [TeamCoFH](http://teamcofh.com/downloads/) |  |  |
 | Thermal Foundation | 1.0.0B3-8 | [TeamCoFH](http://teamcofh.com/downloads/) |  |  |
-| TiC Tooltips | 1.1.11b |  |  |  |
-| Tinkers Construct | 1.6.0d40.1 |  |  |  |
-| Tinkers Mechworks | 0.2.9 |  |  |  |
-| Too Much Loot | 3.0.1b22 |  |  |  |
+| TiC Tooltips | 1.1.11b | [CurseForge](http://minecraft.curseforge.com/mc-mods/76845-tic-tooltips/files) |  |  |
+| Tinkers Construct | 1.7.1c | [CurseForge](http://minecraft.curseforge.com/mc-mods/74072-tinkers-construct/files) |  |  |
+| Tinkers Mechworks | 0.2.9 | [CurseForge](http://minecraft.curseforge.com/mc-mods/78057-tinkers-mechworks/files) |  |  |
+| Too Much Loot | 3.0.1b22 | [CurseForge](http://www.curse.com/mc-mods/minecraft/220845-toomuchloot) |  |  |
 | Translocator | 1.1.1.13 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  | ChickenBones |
-| Twilight Forest | 2.3.1 |  |  |  |
-| WAILA Harvestability | 1.1.0 |  |  |  |
-| WAILA | 1.5.4a |  |  |  |
-| weaponmod | 1.14.2 |  | I have no clue what this is |  |
-| Witchery | 0.20.5 |  |  |  |
-| WR-CBE | 1.4.1.7 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  | ChickenBones |
-| Resonant Engine | 2.0.0.153 | [universalelectricity](http://universalelectricity.com/resonant-engine/) |  |  |
+| Twilight Forest | 2.3.2 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258-t) |  |  |
 | Universal Electricity | 4.0.0.88 | [universalelectricity](http://universalelectricity.com/downloads/) |  |  |
+| WAILA Harvestability | 1.1.0 | [CurseForge](http://minecraft.curseforge.com/mc-mods/79287-waila-harvestability/files) |  |  |
+| WAILA | 1.5.5 | [CurseForge](http://minecraft.curseforge.com/mc-mods/73488-waila/files) |  |  |
+| Witchery | 0.20.6 | [CurseForge](http://www.curse.com/mc-mods/minecraft/witchery) |  |  |
+| WR-CBE | 1.4.1.7 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  | ChickenBones |
