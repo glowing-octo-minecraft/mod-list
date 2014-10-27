@@ -5,7 +5,7 @@
 | Aethercraft | 1.4.5.68 | [CurseForge](http://minecraft.curseforge.com/mc-mods/71386-aec/files) |  |  |
 | Applied Energistics 2 | rv1-beta-37 | [ae-mod](http://ae-mod.info/Downloads/) |  |  |
 | Artifice | 1.1.4-300 | [CurseForge](http://minecraft.curseforge.com/mc-mods/223174-artifice/files) |  |  |
-| AsieLib | 0.3.2 | [shinonome](http://mc.shinonome.ch/doku.php?id=wiki:asielib) |  |  |
+| AsieLib | 0.3.2 | [shinonome](http://mc.shinonome.ch/doku.php?id=wiki:asielib) |  | Asie |
 | Automagy | 0.12.2 | [CurseForge](http://minecraft.curseforge.com/mc-mods/222153-automagy/files) |  |  |
 | Balkons Weaponmod | 1.14.3 | [CurseForge](http://www.curse.com/mc-mods/minecraft/balkons-weaponmod) |  |  |
 | bdlib | 1.5.0.31 | [bdew](http://bdew.net/gendustry/) |  |  |
@@ -115,7 +115,7 @@
 | Simply Jetpacks | 1.2.0 | [CurseForge](http://minecraft.curseforge.com/mc-mods/79325-simply-jetpacks) |  |  |
 | Solar Flux | 0.4b | [CurseForge](http://minecraft.curseforge.com/mc-mods/223548-solar-flux) |  |  |
 | Stackie | 1.5.1.28 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-l) |  |  |
-| Statues Mod | 2.1.4 | [shinonome](http://mc.shinonome.ch/doku.php?id=wiki:statues) |  |  |
+| Statues Mod | 2.1.4 | [shinonome](http://mc.shinonome.ch/doku.php?id=wiki:statues) |  | Asie |
 | StealthwareCore | 2.0 | [stealthware](http://stealthware.co.uk/maven/uk/co/stealthware/minecraft/StealthwareCore/) | Inside fearitude-1.7.10.zip for now | Fearitude |
 | Sync | 4.0.0 | [ichun](http://ichun.us/mods/sync/) |  |  |
 | Tails | 1.2.2 | [CurseForge](http://www.curse.com/mc-mods/minecraft/223584-tails) |  |  |
