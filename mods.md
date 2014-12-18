@@ -1,13 +1,13 @@
 | Mod | Version in Use | Downloads | Notes | Author |
 | :-: | :-: | :-: | :-: | :-: |
 | Advanced Genetics | 1.5.7 | [TeamDNA](http://ag.teamdna.de/) |  |  |
-| AE2TechAddOn | 1.0-b81 | [CurseForge](http://minecraft.curseforge.com/mc-mods/221903-ae2-tech-add-on/files) | Temp Removed |  |
+| AE2TechAddOn | 1.0-b81 | [CurseForge](http://minecraft.curseforge.com/mc-mods/221903-ae2-tech-add-on/files) | TR |  |
 | Aethercraft | 1.4.5.68 | [CurseForge](http://minecraft.curseforge.com/mc-mods/71386-aec/files) |  |  |
 | Applied Energistics 2 | rv1-beta-37 | [ae-mod](http://ae-mod.info/Downloads/) |  |  |
 | Artifice | 1.1.4-300 | [CurseForge](http://minecraft.curseforge.com/mc-mods/223174-artifice/files) |  |  |
 | AsieLib | 0.3.2 | [shinonome](http://mc.shinonome.ch/doku.php?id=wiki:asielib) |  | Asie |
-| Automagy | 0.12.2 | [CurseForge](http://minecraft.curseforge.com/mc-mods/222153-automagy/files) | Temp Removed |  |
-| Balkons Weaponmod | 1.14.3 | [CurseForge](http://www.curse.com/mc-mods/minecraft/balkons-weaponmod) | Temp Removed |  |
+| Automagy | 0.12.2 | [CurseForge](http://minecraft.curseforge.com/mc-mods/222153-automagy/files) | TR |  |
+| Balkons Weaponmod | 1.14.3 | [CurseForge](http://www.curse.com/mc-mods/minecraft/balkons-weaponmod) | TE |  |
 | bdlib | 1.5.0.31 | [bdew](http://bdew.net/gendustry/) |  |  |
 | Bibliocraft | 1.8.2 | [BiblioCraftMod](www.bibliocraftmod.com/?page_id=48) |  |  |
 | Bibliowoods - Biomes O Plenty | 1.8 | [BiblioCraftMod](http://www.bibliocraftmod.com/?page_id=50) | TR |  |
@@ -15,11 +15,11 @@
 | Bibliowoods - Natura | 1.4 | [BiblioCraftMod](http://www.bibliocraftmod.com/?page_id=50) | TR |  |
 | Big Reactors | 0.4.0rc8 | [big-rectors](http://www.big-reactors.com/#/download) |  |  |
 | Billund | N/A | [Computercraft](http://www.computercraft.info/billund/) | Awaiting stable update | dan200 |
-| Biomes O Plenty | 2.1.0.1004 | [MinecraftForge](http://files.minecraftforge.net/BiomesOPlenty/) | TRTR |  |
+| Biomes O Plenty | 2.1.0.1004 | [MinecraftForge](http://files.minecraftforge.net/BiomesOPlenty/) | TR |  |
 | Blood Magic | 1.2.0b | [DropBox](https://www.dropbox.com/sh/0aqvalqobu61t44/AADZq-GuoDeuNzgg6zueVM_Ca) |  |  |
 | Botania | r1.2-129 | [vazkii](http://vazkii.us/mod/Botania/downloads.php) |  | vazkii |
 | Buildcraft | 6.0.18 | [mod-buildcraft](http://www.mod-buildcraft.com/download/) |  |  |
-| BuildcraftAdditions | 1.6.5 | [CurseForge](http://minecraft.curseforge.com/mc-mods/221014-buildcraft-additions/files) | TRTR |  |
+| BuildcraftAdditions | 1.6.5 | [CurseForge](http://minecraft.curseforge.com/mc-mods/221014-buildcraft-additions/files) | TR |  |
 | Builder's Guides | 1.0.0B4 | [CurseForge](http://minecraft.curseforge.com/mc-mods/222961-builders-guides/files) |  |  |
 | Carpenter's Blocks | 3.3.0.1 | [GitHub](http://mineshopper.github.io/carpentersblocks/downloads.html) |  |  |
 | ChickenChunks | 1.3.4.14 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  |  ChickenBones |
