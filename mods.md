@@ -81,7 +81,6 @@
 | Not Enough Codecs | 0.3-snapshot-11 | [OpenMods](http://www.openmods.info:8080/job/NotEnoughCodecs/) |  |  |
 | Not Enough Items | 1.0.3.64 | [ChickenBones](http://chickenbones.net/Pages/links.html) |  | ChickenBones |
 | OpenBlocks | 1.3-snapshot-457 | [OpenMods](http://www.openmods.info:8080/job/OpenBlocks/) |  |  |
-| OpenComponents | 0.2.1.25 | [cil](http://ci.cil.li/job/OpenComponents-MC1.7/) |  |  |
 | OpenComputers | 1.3.6.69 | [CurseForge](http://www.curse.com/mc-mods/minecraft/223008-opencomputers) |  |  |
 | OpenEye | 0.6 | [OpenMods](http://openeye.openmods.info/download) |  |  |
 | OpenMods Lib | 0.6-snapshot-233 | [OpenMods](http://www.openmods.info:8080/job/OpenModsLib/) |  |  |
