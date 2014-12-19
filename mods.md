@@ -6,7 +6,7 @@
 | Applied Energistics 2 | rv1-beta-37 | [ae-mod](http://ae-mod.info/Downloads/) |  |  |
 | Artifice | 1.1.4-300 | [CurseForge](http://minecraft.curseforge.com/mc-mods/223174-artifice/files) |  |  |
 | Automagy | 0.12.2 | [CurseForge](http://minecraft.curseforge.com/mc-mods/222153-automagy/files) | TR |  |
-| Balkons Weaponmod | 1.14.3 | [CurseForge](http://www.curse.com/mc-mods/minecraft/balkons-weaponmod) | TE |  |
+| Balkons Weaponmod | 1.14.3 | [CurseForge](http://www.curse.com/mc-mods/minecraft/balkons-weaponmod) | TR |  |
 | bdlib | 1.5.0.31 | [bdew](http://bdew.net/gendustry/) |  |  |
 | Bibliocraft | 1.8.2 | [BiblioCraftMod](www.bibliocraftmod.com/?page_id=48) |  |  |
 | Bibliowoods - Biomes O Plenty | 1.8 | [BiblioCraftMod](http://www.bibliocraftmod.com/?page_id=50) | TR |  |
