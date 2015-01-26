@@ -11,7 +11,7 @@
 | Bibliowoods - Natura | 1.4 | [BiblioCraftMod](http://www.bibliocraftmod.com/?page_id=50) |  |  |
 | Big Factories | 1.05 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2282013-b) |  |  |
 | Big Reactors | 0.4.0rc8 | [big-rectors](http://www.big-reactors.com/#/download) |  |  |
-| Binnie's Mods |  |  |  | Binnie |
+| Binnie's Mods | 2.0-pre5 | [CurseForge](http://minecraft.curseforge.com/mc-mods/223525-binnies-mods/files) |  | Binnie |
 | Biomes O Plenty | 2.1.0.1004 | [MinecraftForge](http://files.minecraftforge.net/BiomesOPlenty/) |  |  |
 | Blood Magic | 1.2.0b | [DropBox](https://www.dropbox.com/sh/0aqvalqobu61t44/AADZq-GuoDeuNzgg6zueVM_Ca) |  |  |
 | Botania | r1.2-129 | [vazkii](http://vazkii.us/mod/Botania/downloads.php) |  | vazkii |
@@ -44,7 +44,7 @@
 | Hardcore Ender Expansion | 1.6.4 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889-h) |  |  |
 | Hats | 4.0.1 | [ichun](http://ichun.us/mods/hats/) | TR |  |
 | iChun Util | 4.0.0 | [ichun](http://ichun.us/mods/ichunutil/) |  |  |
-| Iguana's Tinkers Tweaks |  | [CurseForge](http://www.curseforge.com/mc-mods/223248-iguanas-tinker-tweaks/files) |  |  boni |
+| Iguana's Tinkers Tweaks | 2.1.2 | [CurseForge](http://www.curseforge.com/mc-mods/223248-iguanas-tinker-tweaks/files) |  |  boni |
 | Immibis Core | 59.0.3 | [immibis](http://immibis.com/mcmoddl/) |  | immibis |
 | Immibis Microblocks | 59.0.3 | [immibis](http://immibis.com/mcmoddl/) |  | immibis |
 | Immibis Peripherals | 59.0.0 | [immibis](http://immibis.com/mcmoddl/) |  | immibis |
