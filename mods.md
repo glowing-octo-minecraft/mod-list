@@ -44,7 +44,7 @@
 | Hardcore Ender Expansion | 1.6.4 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889-h) |  |  |
 | Hats | 4.0.1 | [ichun](http://ichun.us/mods/hats/) | TR |  |
 | iChun Util | 4.0.0 | [ichun](http://ichun.us/mods/ichunutil/) |  |  |
-| Iguana's Tinkers Tweaks | [CurseForge](http://www.curseforge.com/mc-mods/223248-iguanas-tinker-tweaks/files) |  |  | boni |
+| Iguana's Tinkers Tweaks |  | [CurseForge](http://www.curseforge.com/mc-mods/223248-iguanas-tinker-tweaks/files) |  |  boni |
 | Immibis Core | 59.0.3 | [immibis](http://immibis.com/mcmoddl/) |  | immibis |
 | Immibis Microblocks | 59.0.3 | [immibis](http://immibis.com/mcmoddl/) |  | immibis |
 | Immibis Peripherals | 59.0.0 | [immibis](http://immibis.com/mcmoddl/) |  | immibis |
