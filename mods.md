@@ -7,7 +7,7 @@
 | Bibliowoods - Biomes O Plenty | 1.8 | [BiblioCraftMod](http://www.bibliocraftmod.com/?page_id=50) |  |  |
 | Bibliowoods - Forestry | 1.6 | [BiblioCraftMod](http://www.bibliocraftmod.com/?page_id=50) |  |  |
 | Bibliowoods - Natura | 1.4 | [BiblioCraftMod](http://www.bibliocraftmod.com/?page_id=50) |  |  |
-| Big Factories | 1.05 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2282013-b) | Removed due to Tinkers already having thge same functionality. |  |
+| Big Factories | 1.05 | [MinecraftForum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2282013-b) | Removed due to Tinkers already having the same functionality. |  |
 | Big Reactors | 0.4.0rc8 | [big-reactors](http://www.big-reactors.com/#/download) |  |  |
 | Binnie's Mods | 2.0-pre5 | [CurseForge](http://www.curseforge.com/mc-mods/binnies-mods/files) |  | Binnie |
 | Biomes O Plenty | 2.1.0.1004 | [MinecraftForge](http://files.minecraftforge.net/BiomesOPlenty/) |  |  |
